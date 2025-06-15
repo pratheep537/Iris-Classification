@@ -1,0 +1,13 @@
+body {
+    background: url("/static/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.6); /* transparent black */
+    color: white;
+}
