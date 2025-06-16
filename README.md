@@ -123,7 +123,7 @@ Your feedback is appreciated 🙌
 
 ## 🔗 Connect with Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/pratheep-s537)
+* 💼 [LinkedIn](https://www.linkedin.com/in/pratheep-s537)
 * 💻 [GitHub](https://github.com/pratheep537)
 
 ---
